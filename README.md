@@ -1,2 +1,1 @@
-Hello Seeker
-"ARE YOU READYT"
+Shell Basics Readme
