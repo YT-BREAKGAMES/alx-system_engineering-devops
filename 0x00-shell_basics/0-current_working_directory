@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Coder" > 0-current_working_directory
+pwd
