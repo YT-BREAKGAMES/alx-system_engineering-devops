@@ -36,8 +36,3 @@ What you should learn from this project:
 
 ### [4. Port listening on localhost](./4-port_listening_on_localhost)
 * Write a Bash script that listens on port 98 on localhost.
-
----
-
-## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
